@@ -1,0 +1,6 @@
+dist/
+build/
+APDescription.txt
+MTPs-Main-Container.txt
+nbproject/private/private.properties
+nbproject/private/config.properties
